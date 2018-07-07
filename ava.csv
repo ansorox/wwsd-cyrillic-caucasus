@@ -1,61 +1,61 @@
 script,grapheme,unicode,IPA,comment,source,omniglot
-Avar,а,U+0430,a,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,б,U+0431,b,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,в,U+0432,w,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,г,U+0433,g,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,гъ,U+0433 U+044A,ʁ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,гь,U+0433 U+044C,h,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,гӏ,U+0433 U+04CF,ʕ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,д,U+0434,d,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,е,U+0435,e,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,е,U+0435,je,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,ё,U+0451,jo,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,ж,U+0436,z,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,з,U+0437,ð,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,и,U+0438,i,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,й,U+0439,j,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,к,U+043A,kʰ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,кк,U+043A U+043A,kʰː,doubtful,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,къ,U+043A U+044A,qχʼ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,кь,U+043A U+044C,tɬːʼ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,кӏ,U+043A U+04CF,kʼ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,кӏкӏ,U+043A U+04CF U+043A U+04CF,kːʼ,doubtful,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,л,U+043B,l,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,лӏ,U+043B U+04CF,tɬʰː,doubtful,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,лъ,U+043B U+044A,ɬ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,лълъ,U+043B U+044A U+043B U+044A,ɬː,doubtful,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,м,U+043C,m,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,н,U+043D,n,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,о,U+043E,o,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,п,U+043F,p,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,р,U+0440,r,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,с,U+0441,s,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,сс,U+0441 U+0441,sː,doubtful,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,т,U+0442,tʰ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,тӏ,U+0442 U+04CF,tʼ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,у,U+0443,u,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,ф,U+0444,f,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,х,U+0445,χ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,хх,U+0445 U+0445,χː,doubtful,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,хъ,U+0445 U+044A,qχʰ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,хь,U+0445 U+044C,x,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,хьхь,U+0445 U+044C U+0445 U+044C,xː,doubtful,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,хӏ,U+0445 U+04CF,ħ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,ц,U+0446,tsʰ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,цц,U+0446 U+0446,tsʰː,doubtful,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,цӏ,U+0446 U+04CF,tsʼ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,цӏцӏ,U+0446 U+04CF U+0446 U+04CF,tsːʼ,doubtful,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257", http://www.omniglot.com/writing/avar.htm 
-Avar,ч,U+0447,tʃ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,чч,U+0447 U+0447,tʃː,doubtful,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257", http://www.omniglot.com/writing/avar.htm 
-Avar,чӏ,U+0447 U+04CF,tʃʼ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,чӏчӏ, U+0447 U+04CF U+0447 U+04CF,tʃːʼ,doubtful,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257", http://www.omniglot.com/writing/avar.htm 
-Avar,ш,U+0448,ʃ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,щ,U+0449,ʃː,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,ъ,U+044A,ʔ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,ы,U+044B,ɨ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,ь,U+044C,ʲ,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,э,U+044D,e,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,ю,U+044E,ju,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,ю,U+044E,ʲu,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,я,U+044F,ja,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
-Avar,я,U+044F,ʲa,,"Г. И. Мадиева, Аварский язык, Языки народов СССР. Т. 4. - М., 1967. - С. 257",http://www.omniglot.com/writing/avar.htm
+Avar,а,U+0430,a,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,б,U+0431,b,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,в,U+0432,w,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,г,U+0433,g,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,гъ,U+0433 U+044A,ʁ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,гь,U+0433 U+044C,h,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,гӏ,U+0433 U+04CF,ʕ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,д,U+0434,d,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,е,U+0435,e,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,е,U+0435,je,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,ё,U+0451,jo,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,ж,U+0436,z,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,з,U+0437,ð,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,и,U+0438,i,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,й,U+0439,j,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,к,U+043A,kʰ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,кк,U+043A U+043A,kʰː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,къ,U+043A U+044A,qχʼ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,кь,U+043A U+044C,tɬːʼ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,кӏ,U+043A U+04CF,kʼ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,кӏкӏ,U+043A U+04CF U+043A U+04CF,kːʼ,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,л,U+043B,l,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,лӏ,U+043B U+04CF,tɬʰː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,лъ,U+043B U+044A,ɬ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,лълъ,U+043B U+044A U+043B U+044A,ɬː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,м,U+043C,m,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,н,U+043D,n,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,о,U+043E,o,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,п,U+043F,p,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,р,U+0440,r,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,с,U+0441,s,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,сс,U+0441 U+0441,sː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,т,U+0442,tʰ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,тӏ,U+0442 U+04CF,tʼ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,у,U+0443,u,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,ф,U+0444,f,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,х,U+0445,χ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,хх,U+0445 U+0445,χː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,хъ,U+0445 U+044A,qχʰ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,хь,U+0445 U+044C,x,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,хьхь,U+0445 U+044C U+0445 U+044C,xː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,хӏ,U+0445 U+04CF,ħ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,ц,U+0446,tsʰ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,цц,U+0446 U+0446,tsʰː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,цӏ,U+0446 U+04CF,tsʼ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,цӏцӏ,U+0446 U+04CF U+0446 U+04CF,tsːʼ,doubtful,Мадиева 1967: 257., http://www.omniglot.com/writing/avar.htm 
+Avar,ч,U+0447,tʃ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,чч,U+0447 U+0447,tʃː,doubtful,Мадиева 1967: 257., http://www.omniglot.com/writing/avar.htm 
+Avar,чӏ,U+0447 U+04CF,tʃʼ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,чӏчӏ, U+0447 U+04CF U+0447 U+04CF,tʃːʼ,doubtful,Мадиева 1967: 257., http://www.omniglot.com/writing/avar.htm 
+Avar,ш,U+0448,ʃ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,щ,U+0449,ʃː,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,ъ,U+044A,ʔ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,ы,U+044B,ɨ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,ь,U+044C,ʲ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,э,U+044D,e,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,ю,U+044E,ju,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,ю,U+044E,ʲu,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,я,U+044F,ja,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,я,U+044F,ʲa,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
