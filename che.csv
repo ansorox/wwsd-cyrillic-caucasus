@@ -1,14 +1,14 @@
-script,grapheme,unicode,IPA,comment,source,omniglot
+script,grapheme,grapheme,IPA,comment,source,omniglot
 Chechen ,а,U+0430,ɑ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,а,U+0430,ɑː,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,а,U+0430,ə,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,аь,U+0430 U+044C,æ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,аь,U+0430 U+044C,æː,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,аь,U+0430U+044C,æ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,аь,U+0430U+044C,æː,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,б,U+0431,b,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,в,U+0432,w,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,в,U+0432,v,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,г,U+0433,g,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,гӀ,U+0433 U+04C0,ɣ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,гӏ,U+0433U+04CF,ɣ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,д,U+0434,d,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,е,U+0435,ɛ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,е,U+0435,ɛː,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
@@ -21,11 +21,11 @@ Chechen ,и,U+0438,i,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/c
 Chechen ,и,U+0438,iː,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,й,U+0439,j,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,к,U+043A,k,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,кх,U+043A U+0445,q,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,къ,U+043A U+044A,qʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,къ,U+043A U+044A,qX’,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,кӀ,U+043A U+04C0,khʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,кӀ,U+043A U+04C0,kʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,кх,U+043AU+0445,q,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,къ,U+043AU+044A,qʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,къ,U+043AU+044A,qX’,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,кӏ,U+043AU+04CF,khʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,кӏ,U+043AU+04CF,kʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,л,U+043B,l,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,м,U+043C,m,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,н,U+043D,n,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
@@ -33,31 +33,31 @@ Chechen ,н,U+043D,ŋ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/
 Chechen ,о,U+043E,o,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,о,U+043E,oː,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,о,U+043E,wo,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,оь,U+043E U+044C,ø,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,оь,U+043E U+044C,ɥø,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,оь,U+043EU+044C,ø,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,оь,U+043EU+044C,ɥø,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,п,U+043F,p,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,пӀ,U+043F U+04C0,phʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,пӀ,U+043F U+04C0,pʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,пӏ,U+043FU+04CF,phʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,пӏ,U+043FU+04CF,pʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,р,U+0440,r̥,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,р,U+0440,r,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,с,U+0441,s,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,т,U+0442,t,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,тӀ,U+0442 U+04C0,thʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,тӀ,U+0442 U+04C0,tʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,тӏ,U+0442U+04CF,thʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,тӏ,U+0442U+04CF,tʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,у,U+0443,u,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,у,U+0443,uː,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,уь,U+0443 U+044C,y,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,уь,U+0443 U+044C,yː,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,уь,U+0443U+044C,y,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,уь,U+0443U+044C,yː,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,ф,U+0444,f,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,х,U+0445,x,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,хь,U+0445 U+044C,ʜ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,хӀ,U+0445 U+04C0,h,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,хь,U+0445U+044C,ʜ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,хӏ,U+0445U+04CF,h,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,ц,U+0446,ts,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,цӀ,U+0446 U+04C0,tshʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,цӀ,U+0446 U+04C0,tsʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,цӏ,U+0446U+04CF,tshʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,цӏ,U+0446U+04CF,tsʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,ч,U+0447,tʃ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,чӀ,U+0447 U+04C0,tʃhʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,чӀ,U+0447 U+04C0,tʃʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,чӏ,U+0447U+04CF,tʃhʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,чӏ,U+0447U+04CF,tʃʼ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,ш,U+0448,ʃ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,щ,U+0449,,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,ъ,U+044A,ʔ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
@@ -65,8 +65,8 @@ Chechen ,ы,U+044B,,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/ch
 Chechen ,ь,U+044C,,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,э,U+044D,je,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,ю,U+044E,ju,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,юь,U+044E U+044C,jy,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,юь,U+044EU+044C,jy,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
 Chechen ,я,U+044F,ja,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,яь,U+044F U+044C,jæ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,Ӏ,U+04C0,ʡ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
-Chechen ,Ӏ,U+04C0,ˤ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,яь,U+044FU+044C,jæ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,ӏ,U+04CF,ʡ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm
+Chechen ,ӏ,U+04CF,ˤ,,"Dotton, Wagner: 5-6.",https://www.omniglot.com/writing/chechen.htm

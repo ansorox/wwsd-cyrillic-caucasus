@@ -3,9 +3,9 @@ Avar,а,U+0430,a,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar
 Avar,б,U+0431,b,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,в,U+0432,w,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,г,U+0433,g,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,гъ,U+0433 U+044A,ʁ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,гь,U+0433 U+044C,h,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,гӏ,U+0433 U+04CF,ʕ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,гъ,U+0433U+044A,ʁ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,гь,U+0433U+044C,h,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,гӏ,U+0433U+04CF,ʕ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,д,U+0434,d,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,е,U+0435,e,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,е,U+0435,je,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
@@ -15,40 +15,40 @@ Avar,з,U+0437,ð,,Мадиева 1967: 257.,http://www.omniglot.com/writing/ava
 Avar,и,U+0438,i,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,й,U+0439,j,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,к,U+043A,kʰ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,кк,U+043A U+043A,kʰː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,къ,U+043A U+044A,qχʼ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,кь,U+043A U+044C,tɬːʼ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,кӏ,U+043A U+04CF,kʼ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,кӏкӏ,U+043A U+04CF U+043A U+04CF,kːʼ,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,кк,U+043AU+043A,kʰː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,къ,U+043AU+044A,qχʼ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,кь,U+043AU+044C,tɬːʼ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,кӏ,U+043AU+04CF,kʼ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,кӏкӏ,U+043AU+04CFU+043AU+04CF,kːʼ,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,л,U+043B,l,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,лӏ,U+043B U+04CF,tɬʰː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,лъ,U+043B U+044A,ɬ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,лълъ,U+043B U+044A U+043B U+044A,ɬː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,лӏ,U+043BU+04CF,tɬʰː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,лъ,U+043BU+044A,ɬ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,лълъ,U+043BU+044AU+043BU+044A,ɬː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,м,U+043C,m,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,н,U+043D,n,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,о,U+043E,o,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,п,U+043F,p,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,р,U+0440,r,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,с,U+0441,s,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,сс,U+0441 U+0441,sː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,сс,U+0441U+0441,sː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,т,U+0442,tʰ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,тӏ,U+0442 U+04CF,tʼ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,тӏ,U+0442U+04CF,tʼ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,у,U+0443,u,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,ф,U+0444,f,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,х,U+0445,χ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,хх,U+0445 U+0445,χː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,хъ,U+0445 U+044A,qχʰ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,хь,U+0445 U+044C,x,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,хьхь,U+0445 U+044C U+0445 U+044C,xː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,хӏ,U+0445 U+04CF,ħ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,хх,U+0445U+0445,χː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,хъ,U+0445U+044A,qχʰ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,хь,U+0445U+044C,x,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,хьхь,U+0445U+044CU+0445U+044C,xː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,хӏ,U+0445U+04CF,ħ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,ц,U+0446,tsʰ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,цц,U+0446 U+0446,tsʰː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,цӏ,U+0446 U+04CF,tsʼ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,цӏцӏ,U+0446 U+04CF U+0446 U+04CF,tsːʼ,doubtful,Мадиева 1967: 257., http://www.omniglot.com/writing/avar.htm 
+Avar,цц,U+0446U+0446,tsʰː,doubtful,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,цӏ,U+0446U+04CF,tsʼ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,цӏцӏ,U+0446U+04CFU+0446U+04CF,tsːʼ,doubtful,Мадиева 1967: 257., http://www.omniglot.com/writing/avar.htm 
 Avar,ч,U+0447,tʃ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,чч,U+0447 U+0447,tʃː,doubtful,Мадиева 1967: 257., http://www.omniglot.com/writing/avar.htm 
-Avar,чӏ,U+0447 U+04CF,tʃʼ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
-Avar,чӏчӏ, U+0447 U+04CF U+0447 U+04CF,tʃːʼ,doubtful,Мадиева 1967: 257., http://www.omniglot.com/writing/avar.htm 
+Avar,чч,U+0447U+0447,tʃː,doubtful,Мадиева 1967: 257., http://www.omniglot.com/writing/avar.htm 
+Avar,чӏ,U+0447U+04CF,tʃʼ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
+Avar,чӏчӏ,U+0447U+04CFU+0447U+04CF,tʃːʼ,doubtful,Мадиева 1967: 257., http://www.omniglot.com/writing/avar.htm 
 Avar,ш,U+0448,ʃ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,щ,U+0449,ʃː,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm
 Avar,ъ,U+044A,ʔ,,Мадиева 1967: 257.,http://www.omniglot.com/writing/avar.htm

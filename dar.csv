@@ -1,4 +1,4 @@
-script,grapheme,unicode,ӏPA,comment,source,omniglot
+script,grapheme,grapheme,ӏPA,comment,source,omniglot
 Dargwa,а,U+0430,a,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,а,U+0430,ə,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,б,U+0431,b,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
@@ -6,9 +6,9 @@ Dargwa,б,U+0431,v,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/wri
 Dargwa,в,U+0432,v,in russian loanwords and in Urah dialect,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,в,U+0432,w,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,г,U+0433,g,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
-Dargwa,гъ,U+0433 U+044A,ʁ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
-Dargwa,гь,U+0433 U+044C,h,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
-Dargwa,гӏ,U+0433 U+04CF,ʕ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
+Dargwa,гъ,U+0433U+044A,ʁ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
+Dargwa,гь,U+0433U+044C,h,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
+Dargwa,гӏ,U+0433U+04CF,ʕ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,д,U+0434,d,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,е,U+0435,e,after a consonant,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,ё,U+0451,jo,in russian loanwords,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
@@ -19,29 +19,29 @@ Dargwa,з,U+0437,z,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/wri
 Dargwa,и,U+0438,i,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,й,U+0439,j,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,к,U+043A,kh,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
-Dargwa,къ,U+043A U+044A,qh,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
-Dargwa,кь,U+043A U+044C,qʼ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
-Dargwa,кӏ,U+043A U+04CF,kʼ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
+Dargwa,къ,U+043AU+044A,qh,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
+Dargwa,кь,U+043AU+044C,qʼ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
+Dargwa,кӏ,U+043AU+04CF,kʼ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,л,U+043B,l,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,м,U+043C,m,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,н,U+043D,n,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,о,U+043E,o,in russian loanwords,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,п,U+043F,ph,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
-Dargwa,пӀ,U+043F U+04C0,pʼ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
+Dargwa,пӏ,U+043FU+04CF,pʼ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,р,U+0440,r,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,с,U+0441,s,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,т,U+0442,th,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
-Dargwa,тӏ,U+0442 U+04CF,tʼ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
+Dargwa,тӏ,U+0442U+04CF,tʼ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,у,U+0443,u,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,ф,U+0444,f,mainly in russian loanwords ,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,х,U+0445,qχ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
-Dargwa,хъ,U+0445 U+044A,qh,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
-Dargwa,хь,U+0445 U+044C,ç,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
-Dargwa,хӏ,U+0445 U+04CF,ʕ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
+Dargwa,хъ,U+0445U+044A,qh,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
+Dargwa,хь,U+0445U+044C,ç,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
+Dargwa,хӏ,U+0445U+04CF,ʕ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,ц,U+0446,tsh,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
-Dargwa,цӏ,U+0446 U+04CF,tsʼ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
+Dargwa,цӏ,U+0446U+04CF,tsʼ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,ч,U+0447,tʃh,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
-Dargwa,чӏ,U+0447 U+04CF,tʃʼ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
+Dargwa,чӏ,U+0447U+04CF,tʃʼ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,ш,U+0448,ʃ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,щ,U+0449,ʃtʃj,in russian loanwords,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
 Dargwa,ъ,U+044A,ʔ,,Абдуллаев 1954: 23-30.,https://www.omniglot.com/writing/dargwa.htm
