@@ -1,13 +1,13 @@
 # wwsd-cyrillic-caucasus
 
 <br>
-North West Caucasian:
+North West Caucasian
 <li><a href='./abq.csv'>Abaza</a></li>
 <li><a href='./abk.csv'>Abkhaz</a></li>
 <li><a href='./ady.csv'>Adyghe</a></li>
 <li><a href='./kbd.csv'>Kabardian</a></li>
 <br>
-North East Caucasian: 
+North East Caucasian
 <li><a href='./agx.csv'>Aghul</a></li>
 <li><a href='./aqc.csv'>Archi</a></li>
 <li><a href='./ava.csv'>Avar</a></li>
