@@ -1,80 +1,141 @@
-script,grapheme,unicode,IPA,comment,source,omniglot
-Abkhaz,а,U+0430,a,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,б,U+0431,b,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,в,U+0432,v,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,г,U+0433,g,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,гь,U+0433U+044C,gʲ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,гә,U+0433U+04D9,ɡʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ҕ,U+0495,ʁ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ҕь,U+0495U+044C,ʁʲ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ҕә,U+0495U+04D9,ʁʲʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,д,U+0434,d,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,дә,U+0434U+04D9,dʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,џ,U+045F,ɖʐ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,џь,U+045FU+044C,ʤ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,е,U+0435,e,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,е,U+0435,ɛ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ҽ,U+04BD,ʈʂ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ҿ,U+04BF,ʈʂ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ж,U+0436,ʐ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,жь,U+0436U+044C,ʒ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,жә,U+0436U+04D9,ʒʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,з,U+0437,z,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ӡ,U+04E1,ʣ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ӡә,U+04E1U+04D9,dʑʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,и,U+0438,iː,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,и,U+0438,j,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,и,U+0438,jə,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,к,U+043A,k’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,кь,U+043AU+044C,kʲ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,кә,U+043AU+04D9,kʷ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,қ,U+049B,kʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,қь,U+049BU+044C,kʲʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,қә,U+049BU+04D9,kwh,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ҟ,U+049F,q’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ҟь,U+049FU+044C,qʲ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ҟә,U+049FU+04D9,qʷ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,л,U+043B,l,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,м,U+043C,m,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,н,U+043D,n,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,о,U+043E,oː,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,о,U+043E,ɔ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ҩ,U+04A9,ɥ ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,п,U+043F,p’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ҧ,U+04A7,pʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,р,U+0440,r,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,с,U+0441,s,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,т,U+0442,t’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,тә,U+0442U+04D9,tʷ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ҭ,U+04AD,tʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ҭә,U+04ADU+04D9,twh,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,у,U+0443,w,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,у,U+0443,wə,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,у,U+0443,u:,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ф,U+0444,f,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,х,U+0445,χ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,хь,U+0445U+044C,χʲ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,хә,U+0445U+04D9,χʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ҳ,U+04B3,ħ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ҳә,U+04B3U+04D9,ħʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ц,U+0446,tsʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,цә,U+0446U+04D9,ʨʷʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ҵ,U+04B5,ts’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ҵә,U+04B5U+04D9,ʨʷ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ч,U+0447,ʧʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ҷ,U+04B7,ʧ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ш,U+0448,ʂ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,шь,U+0448U+044C,ʃ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,шә,U+0448U+04D9,ʃʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-Abkhaz,ы,U+044B,ə,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-        ,,,,,,
+script,grapheme,IPA,comment,source,omniglot
+Abkhaz,а,a,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,б,b,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,в,v,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,г,g,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,гь,gʲ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,гә,ɡʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ӷ ,ʁ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ӷь,ʁʲ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ӷә,ʁʲʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,д,d,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,дә,dʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,е,e,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,е,ɛ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ж,ʐ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,жь,ʒ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,жә,ʒʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,з,z,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ӡ,ʣ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ӡә,dʑʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,и,iː,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,и,j,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,и,jə,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,к,k’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,кь,kʲ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,кә,kʷ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,қ,kʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,қь,kʲʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,қә,kwh,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ҟ,q’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ҟь,qʲ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ҟә,qʷ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,л,l,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,м,m,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,н,n,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,о,oː,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,о,ɔ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,п,p’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ԥ  ,pʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,р,r,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,с,s,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,т,t’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,тә,tʷ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ҭ,tʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ҭә,twh,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,у,w,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,у,wə,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,у,u:,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ф,f,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,х,χ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,хь,χʲ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,хә,χʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ҳ,ħ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ҳә,ħʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ц,tsʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,цә,ʨʷʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ҵ,ts’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ҵә,ʨʷ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ч,ʧʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ҷ,ʧ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ҽ,ʈʂ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ҿ,ʈʂ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ш,ʂ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,шь,ʃ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,шә,ʃʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ы,ə,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ҩ,ɥ ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,џ,ɖʐ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,џь,ʤ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+,ь,j,,,
+Abkhaz,ә ,w,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ә ,v,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ә ,ᶣ ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,А,a,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Б,b,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,В,v,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Г,g,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Гь,gʲ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Гә,ɡʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ӷ ,ʁ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ӷь,ʁʲ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ӷә,ʁʲʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Д,d,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Дә,dʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Е,e,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Е,ɛ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ж,ʐ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Жь,ʒ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Жә,ʒʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,З,z,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ӡ,ʣ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ӡә,dʑʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,И,iː,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,И,j,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,И,jə,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,К,k’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Кь,kʲ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Кә,kʷ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Қ,kʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Қь,kʲʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Қә,kwh,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ҟ,q’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ҟь,qʲ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ҟә,qʷ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Л,l,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,М,m,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Н,n,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,О,oː,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,О,ɔ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,П,p’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,ԥ  ,pʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Р,r,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,С,s,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Т,t’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Тә,tʷ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ҭ,tʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ҭә,twh,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,У,w,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,У,wə,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,У,u:,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ф,f,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Х,χ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Хь,χʲ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Хә,χʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ҳ,ħ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ҳә,ħʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ц,tsʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Цә,ʨʷʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ҵ,ts’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ҵә,ʨʷ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ч,ʧʰ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ҷ,ʧ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ҽ,ʈʂ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ҿ,ʈʂ’,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ш,ʂ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Шь,ʃ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Шә,ʃʷ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ы,ə,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Ҩ,ɥ ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Џ,ɖʐ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
+Abkhaz,Џь,ʤ,,Hewitt 2004: 260-263.,https://www.omniglot.com/writing/abkhaz.htm
