@@ -1,62 +1,105 @@
-script,grapheme,unicode,IPA,comment,source,omniglot
-Tabasaran,а,U+0430,a,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,аь,U+0430U+044C,ӕ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,б,U+0431,b,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,в,U+0432,v,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,в,U+0432,w,"after consonants  г, гь, ж, к, къ, кь, к1, х, хъ, ч, ч1, ш","Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,г,U+0433,g,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,г,U+0433,ɣ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,гъ,U+0433U+044A, &,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,гь,U+0433U+044C,h,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,д,U+0434,d,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,е,U+0435,ɛ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,е,U+0435,jɛ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,ё,U+0451,jo,only russian loanwords,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,ж,U+0436,ʒ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,ж,U+0436,dʒ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,жв,U+0436U+0432,ʒʷ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,з,U+0437,z,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,з,U+0437,dz,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,и,U+0438,i,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,й,U+0439,j,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,к,U+043A,kʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,кк,U+043AU+043A,kː,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,къ,U+043AU+044A,qːʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,кь,U+043AU+044C,qʼ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,кӏ,U+043AU+04CF,kʼ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,л,U+043B,l,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,м,U+043C,m,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,н,U+043D,n,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,о,U+043E,,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,п,U+043F,pʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,пп,U+043FU+043F,pː,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,пӏ,U+043FU+04CF,pʼ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,р,U+0440,r,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,с,U+0441,s,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,т,U+0442,tʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,тт,U+0442U+0442,tː,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,тӏ,U+0442U+04CF,tʼ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,у,U+0443,u,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,уь,U+0443U+044C,y,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,ф,U+0444,f,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,х,U+0445,ɦ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,хъ,U+0445U+044A,qʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,хь,U+0445U+044C,x,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,ц,U+0446,tsʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,цц,U+0446U+0446,tsːʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,цӏ,U+0446U+04CF,tsʼ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,ч,U+0447,tʃʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,чв,U+0447U+0432,tʃʷʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,чч,U+0447U+0447,tʃːʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,чӏ,U+0447U+04CF,tʃʼ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,ш,U+0448,ʃ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,шв,U+0448U+0432,ʃʷ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,щ,U+0449,ɕ,in russian loanwords,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,ъ,U+044A,ʔ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,ы,U+044B,ɨ,in russian loanwords,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,ь,U+044C,,in russian loanwords,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,э,U+044D,ɛ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,ю,U+044E,y,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,ю,U+044E,ju,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,я,U+044F,æ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
-Tabasaran,я,U+044F,ja,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+script,grapheme,IPA,comment,source,omniglot
+Tabasaran,а,a,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,аь,ӕ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,б,b,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,в,v,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,в,w,"after consonants  г, гь, ж, к, къ, кь, к1, х, хъ, ч, ч1, ш","Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,г,g,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,г,ɣ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,гъ,ʁ ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,гь,h,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,д,d,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,е,ɛ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,е,jɛ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,ё,jo,only russian loanwords,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,ж,ʒ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,ж,dʒ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,з,z,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,з,dz,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,и,i,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,й,j,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,к,kʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,къ,qːʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,кь,qʼ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,кӏ,kʼ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,л,l,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,м,m,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,н,n,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,о,o,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,п,pʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,пӏ,pʼ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,р,r,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,с,s,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,т,tʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,тӏ,tʼ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,у,u,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,уь,y,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,ф,f,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,х,ɦ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,хъ,qʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,хь,x,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,ц,tsʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,цӏ,tsʼ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,ч,tʃʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,чӏ,tʃʼ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,ш,ʃ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,щ,ɕ,in russian loanwords,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,ъ,ʔ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,ы,ɨ,in russian loanwords,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,ь,j,in russian loanwords,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,э,ɛ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,ю,y,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,ю,ju,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,я,æ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,я,ja,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,ӏ,ʔ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,А,a,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Аь,ӕ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Б,b,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,В,v,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Г,g,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Г,ɣ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Гъ,ʁ ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Гь,h,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Д,d,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Е,ɛ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Е,jɛ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Ё,jo,only russian loanwords,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Ж,ʒ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Ж,dʒ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,З,z,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,З,dz,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,И,i,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Й,j,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,К,kʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Къ,qːʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Кь,qʼ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Кӏ,kʼ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Л,l,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,М,m,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Н,n,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,О,o,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,П,pʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Пӏ,pʼ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Р,r,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,С,s,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Т,tʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Тӏ,tʼ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,У,u,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Уь,y,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Ф,f,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Х,ɦ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Хъ,qʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Хь,x,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Ц,tsʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Цӏ,tsʼ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Ч,tʃʰ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Чӏ,tʃʼ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Ш,ʃ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Щ,ɕ,in russian loanwords,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Э,ɛ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Ю,y,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Ю,ju,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Я,æ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,Я,ja,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm
+Tabasaran,ӏ,ʔ,,"Алексеев, Шихалиева 2003: 29-30.",httpsː//www.omniglot.com/writing/tabassaran.htm

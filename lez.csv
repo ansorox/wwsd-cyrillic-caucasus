@@ -1,57 +1,112 @@
-script,grapheme,unicode,IPA,comment,source,omniglot
-Lezgi,а,U+0430,a,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,б,U+0431,b,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,в,U+0432,w,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,в,U+0432,v,in russian loanwords,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,г,U+0433,g,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,гъ,U+0433U+044A,ʁ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,гь,U+0433U+044C,h,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,гь,U+0433U+044C,ʡ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,д,U+0434,d,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,е,U+0435,e,after a consonant,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,е,U+0435,je,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,ё,U+0451,,in russian loanwords,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,ж,U+0436,ʒ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,з,U+0437,z,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,и,U+0438,i,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,й,U+0439,j,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,к,U+043A,k,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,к,U+043A,kʰ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,къ,U+043AU+044A,q,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,кь,U+043AU+044C,q',,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,кӏ,U+043AU+04CF,k',,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,л,U+043B,l,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,м,U+043C,m,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,н,U+043D,n,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,о,U+043E,o,in russian loanwords,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,п,U+043F,p,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,п,U+043F,pʰ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,пӏ,U+043FU+04CF,p',,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,р,U+0440,r,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,с,U+0441,s,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,т,U+0442,t,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,т,U+0442,tʰ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,тӏ,U+0442U+04CF,t',,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,у,U+0443,u,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,уь,U+0443U+044C,y,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,ф,U+0444,f,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,х,U+0445,χ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,хъ,U+0445U+044A,qʰ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,хь,U+0445U+044C,x,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,ц,U+0446,ts,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,ц,U+0446,tsʰ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,цӏ,U+0446U+04CF,ts',,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,ч,U+0447,tʃ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,ч,U+0447,tʃʰ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,чӏ,U+0447U+04CF,tʃ',,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,ш,U+0448,ʃ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,щ,U+0449,,in russian loanwords,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,ъ,U+044A,ʔ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,ы,U+044B,,in russian loanwords,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,ь,U+044C,,in russian loanwords,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,э,U+044D,e,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,э,U+044D,ʔe,after a consonant,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,ю,U+044E,ju,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,ю,U+044E,y,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,я,U+044F,ja,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
-Lezgi,я,U+044F,æ,after a consonant,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+script,grapheme,IPA,comment,source,omniglot
+Lezgi,а,a,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,б,b,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,в,w,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,в,v,in russian loanwords,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,г,g,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,гъ,ʁ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,гь,h,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,гь,ʡ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,д,d,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,е,e,after a consonant,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,е,je,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,ё,jo,in russian loanwords,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,ж,ʒ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,з,z,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,и,i,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,й,j,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,к,k,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,к,kʰ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,къ,q,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,кь,q',,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,кӏ,k',,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,л,l,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,м,m,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,н,n,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,о,o,in russian loanwords,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,п,p,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,п,pʰ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,пӏ,p',,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,р,r,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,с,s,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,т,t,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,т,tʰ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,тӏ,t',,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,у,u,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,уь,y,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,ф,f,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,х,χ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,хъ,qʰ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,хь,x,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,ц,ts,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,ц,tsʰ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,цӏ,ts',,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,ч,tʃ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,ч,tʃʰ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,чӏ,tʃ',,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,ш,ʃ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,щ,,in russian loanwords,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,ъ,ʔ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,ы,,in russian loanwords,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,ь,,in russian loanwords,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,э,e,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,э,ʔe,after a consonant,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,ю,ju,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,ю,y,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,я,ja,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,я,æ,after a consonant,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,А,a,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Б,b,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,В,w,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,В,v,in russian loanwords,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Г,g,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Гъ,ʁ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Гь,h,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Гь,ʡ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Д,d,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Е,je,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Ё,jo,in russian loanwords,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Ж,ʒ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,З,z,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,И,i,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Й,j,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,К,k,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,К,kʰ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Къ,q,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Кь,q',,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Кӏ,k',,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Л,l,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,М,m,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Н,n,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,О,o,in russian loanwords,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,П,p,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,П,pʰ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Пӏ,p',,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Р,r,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,С,s,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Т,t,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Т,tʰ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Тӏ,t',,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,У,u,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Уь,y,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Ф,f,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Х,χ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Хъ,qʰ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Хь,x,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Ц,ts,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Ц,tsʰ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Цӏ,ts',,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Ч,tʃ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Ч,tʃʰ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Чӏ,tʃ',,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Ш,ʃ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Щ,,in russian loanwords,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Ъ,ʔ,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Ы,,in russian loanwords,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Ь,,in russian loanwords,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Э,e,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Э,ʔe,after a consonant,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Ю,ju,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Ю,y,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Я,ja,,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
+Lezgi,Я,æ,after a consonant,Haspelmath 1993: 28-35.,https://www.omniglot.com/writing/lezgi.htm
